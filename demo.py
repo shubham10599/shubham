@@ -7,3 +7,5 @@ print("chorni")
 print(444444)
 
 print(0000000)
+
+print(90000)
